@@ -1,0 +1,3 @@
+displayName = Gold Standard
+author = a wee lad
+version = 0.1

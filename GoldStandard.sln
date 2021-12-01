@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldStandard", "GoldStandard.csproj", "{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF83190B-7CD3-4470-9E6C-6D83D92D3656}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terraria", "..\Terraria Source\Terraria.csproj", "{7089018B-7A54-4567-AB1C-B822F62BA3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{03A824F1-9C8F-4B66-AE1C-A0B5D59D96A2}.Release|x86.Build.0 = Release|Any CPU
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Debug|x86.ActiveCfg = Debug|x86
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Debug|x86.Build.0 = Debug|x86
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Release|Any CPU.ActiveCfg = Release|x86
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Release|x86.ActiveCfg = Release|x86
+		{7089018B-7A54-4567-AB1C-B822F62BA3D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFB7B40-DEE7-45E4-8A82-BA1E80E1C574}
+	EndGlobalSection
+EndGlobal
